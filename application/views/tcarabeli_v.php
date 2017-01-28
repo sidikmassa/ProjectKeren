@@ -3,7 +3,7 @@ body p {
 	text-align: left;
 }
 </style>
-<p>Cara Pembelian</p>
+<p>Cara Pembelian github</p>
 <p>1. Pilih Barang</p>
 <p>&nbsp;</p>
 <p>Anda dapat memilih barang yang ada pada website kami dengan mengklik tombol Beli sekarang pada masing-masing detail barang.</p>
